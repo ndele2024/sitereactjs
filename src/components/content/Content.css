@@ -1,0 +1,20 @@
+.text-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-card .text1{
+    font-size: 15px;
+    font-weight: 500;
+}
+.text-card .text2{
+    margin-left: auto;
+    font-size: 12px;
+}
+.button-card {
+    text-align: right;
+}
+
+/* @media screen and (max-width: 576px) {
+    
+} */

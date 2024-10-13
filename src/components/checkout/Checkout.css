@@ -1,0 +1,13 @@
+.checkform {
+    width:60%;
+    border: 1px solid gray ;
+    border-radius: 10px;
+    margin: 50px auto 0 auto;
+    padding: 30px;
+}
+
+.checkform input {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
