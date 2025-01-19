@@ -2,8 +2,8 @@ import React from 'react';
 
 const livrason = () => {
     return (
-        <div>
-            
+        <div class='liv'>
+            COMMANDE EFFECTUER
         </div>
     );
 };
